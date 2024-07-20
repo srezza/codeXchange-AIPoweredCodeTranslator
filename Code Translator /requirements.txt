@@ -1,0 +1,3 @@
+# Libraries to be installed
+streamlit==1.10.0
+google-generativeai
